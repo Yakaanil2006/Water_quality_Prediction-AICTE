@@ -6,7 +6,7 @@ This project uses machine learning to predict water pollutant levels based on hi
 Features
 Data cleaning and preprocessing (handling missing values, date parsing, feature engineering)
 Exploratory data analysis with visualizations (bar and scatter plots)
-Multi-output regression using Random Forest and Linear Regression
+Multi-output regression using Random Forest
 Model evaluation using R² and MSE metrics
 Predicts pollutant values for a given station and year (e.g., 2024)
 Model saving for future use
