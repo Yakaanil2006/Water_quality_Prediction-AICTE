@@ -1,4 +1,4 @@
-Water Quality Prediction Project
+#Water Quality Prediction Project
 This project uses machine learning to predict water pollutant levels based on historical water quality data. The workflow includes data preprocessing, exploratory data analysis, model training, evaluation, and prediction for future years.
 
 Features
